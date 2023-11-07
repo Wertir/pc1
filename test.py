@@ -4,3 +4,4 @@ p="реп"
 t="нереп"
 print("хз что писать")
 print("фух это ПРЕДпоследний")
+p="huyfhytgdytrveduhfdgjrdfhjsgjerhgjye"
